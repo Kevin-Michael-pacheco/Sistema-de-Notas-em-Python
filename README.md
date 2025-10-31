@@ -26,7 +26,7 @@ Linguagem: Python 3
 
 Faça o download ou clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/Kevin-Michael-pacheco/Sistema-de-Notas-em-Python
 
 
 Abra o arquivo sistema_de_notas.py em um editor de código (como VS Code).
